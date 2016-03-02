@@ -1,0 +1,8 @@
+name: KillTrack
+version: 1.0
+main: me.MnMaxon.KillTrack.KillTrack
+commands:
+  Stats:
+    aliases: [stat,killtrack]
+    description: Displays Info
+    usage: /Stats
